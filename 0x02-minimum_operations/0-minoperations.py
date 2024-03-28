@@ -19,10 +19,12 @@ def minOperations(n: int) -> int:
     """
 
     # Initialize the minimum operations counter
-    min_operations: int = 0
+    min_operations: int
+    min_operations = 0
 
     # Initialize the divisor
-    divisor: int = 2
+    divisor: int
+    divisor = 2
 
     # While n is greater than 1
     while n > 1:
