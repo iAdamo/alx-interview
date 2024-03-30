@@ -5,3 +5,4 @@ This repo contains interview projects endorsed by ALX as part of the specializat
 - [Pascal's Triangle](https://github.com/iAdamo/alx-interview/tree/main/0x00-pascal_triangle)
 - [Lockboxes](https://github.com/iAdamo/alx-interview/tree/main/0x01-lockboxes)
 - [Minimum Operations](https://github.com/iAdamo/alx-interview/tree/main/0x02-minimum_operations)
+- [Log Parsing](https://github.com/iAdamo/alx-interview/tree/main/0x03-log_parsing)
