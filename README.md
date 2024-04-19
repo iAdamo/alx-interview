@@ -8,3 +8,4 @@ This repo contains interview projects endorsed by ALX as part of the specializat
 - [Log Parsing](https://github.com/iAdamo/alx-interview/tree/main/0x03-log_parsing)
 - [UTF-8 Validation](https://github.com/iAdamo/alx-interview/tree/main/0x04-utf8_validation)
 - [N Queens](https://github.com/iAdamo/alx-interview/tree/main/0x05-nqueens)
+- [Star Wars API](https://github.com/iAdamo/alx-interview/tree/main/0x06-starwars_api)
